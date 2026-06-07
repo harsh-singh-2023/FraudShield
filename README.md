@@ -278,7 +278,7 @@ sam build && sam deploy --guided
 ## 👤 Author
 
 **Harsh Singh** — VIT Vellore, B.Tech CSE (Blockchain Technology)
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-PORTFOLIO.com)
+[LinkedIn](https://www.linkedin.com/in/harsh-singh-unique/)
 
 ---
 
